@@ -42,3 +42,4 @@ Specify the threads number for each course (recommended to use 1 when testing):
 ji-coursesel elect -x 1
 ```
 
+太卷了哥哥
